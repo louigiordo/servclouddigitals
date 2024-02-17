@@ -1,1 +1,1 @@
-**2020** -  kursus online
+**2020** -  kursus offline

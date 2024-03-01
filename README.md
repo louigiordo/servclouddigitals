@@ -7,7 +7,7 @@
 # MAJOR UPDATES
 As of version 1.2.0, IPExtractX is now an importable class! Create the class initializer and try it out!
 ```
->>> from IPExtractX import IPExtractX as IPX
+>>> from IPExtractX import IPExtractX as IPX 
 
 >>> mycustomobj = IPX(content_dir,
                   output_file,

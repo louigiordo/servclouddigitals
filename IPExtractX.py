@@ -1,15 +1,5 @@
 #!/usr/bin/env python3
 
-##############################################################
-## ODFSearch Console | IPExtractX Standalone Python Script  ##
-##############################################################
-## Version: 1.2                                             ##
-## Release Date: 1/09/2024                                  ##
-## Release Author: @Onetrak-Digital-Forensics               ##
-## Release License: GNUGPL-V3                               ##
-## Release Status: Public                                   ##
-## Release Type: Standalone Python Script                   ##
-##############################################################
 
 
 
